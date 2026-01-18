@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx prisma:*)",
+      "Bash(npm run dev:*)",
+      "Bash(timeout:*)",
+      "Bash(curl:*)",
+      "Bash(findstr:*)",
+      "Bash(start http://localhost:5174/)",
+      "Bash(npm start)",
+      "Bash(node -e \"const { GoogleGenerativeAI } = require\\(''@google/generative-ai''\\); const genAI = new GoogleGenerativeAI\\(''AIzaSyCRtvWaygyj8PsvqaOZYMANANZynY8aoeI''\\); const model = genAI.getGenerativeModel\\({ model: ''gemini-pro'' }\\); model.generateContent\\(''Test''\\).then\\(result => console.log\\(''Success:'', result.response.text\\(\\)\\)\\).catch\\(err => console.error\\(''Error:'', err.message\\)\\);\")",
+      "Bash(ping:*)",
+      "Bash(node -e:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(node test-gemini.js:*)",
+      "Bash(del:*)",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "app": {
+    "title": "Tarot Reading",
+    "subtitle": "Discover your path with the wisdom of the cards"
+  },
+  "nav": {
+    "home": "Home",
+    "reading": "Reading",
+    "history": "History",
+    "profile": "Profile",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "home": {
+    "welcome": "Welcome to the World of Tarot",
+    "description": "Tarot cards are an ancient tool for self-reflection and personal growth. Let the cards guide you on your life's journey.",
+    "startReading": "Start Reading",
+    "features": {
+      "ai": "AI Interpretation",
+      "aiDesc": "Get deep interpretation from artificial intelligence",
+      "history": "Reading History",
+      "historyDesc": "Save and review your previous spreads",
+      "multilang": "Multilingual",
+      "multilangDesc": "Ukrainian and English languages"
+    }
+  },
+  "reading": {
+    "title": "Choose 3 Cards",
+    "question": "Ask a question (optional)",
+    "questionPlaceholder": "What do I need to know about...",
+    "selectCards": "Select 3 cards from the deck",
+    "selectedCards": "Selected Cards",
+    "getInterpretation": "Get Interpretation",
+    "newReading": "New Reading",
+    "saveReading": "Save Reading",
+    "loading": "Getting interpretation...",
+    "positions": {
+      "past": "Past",
+      "present": "Present",
+      "future": "Future"
+    },
+    "reversed": "reversed",
+    "upright": "upright",
+    "interpretation": "Interpretation",
+    "loginToSave": "Login to save readings"
+  },
+  "history": {
+    "title": "Reading History",
+    "noReadings": "You don't have any readings yet",
+    "startFirst": "Make your first reading!",
+    "viewDetails": "View Details",
+    "delete": "Delete",
+    "confirmDelete": "Are you sure you want to delete this reading?",
+    "question": "Question",
+    "noQuestion": "No question",
+    "cards": "Cards",
+    "date": "Date"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "username": "Username",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "language": "Language",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loginLink": "Login",
+    "registerLink": "Register",
+    "errors": {
+      "required": "This field is required",
+      "emailInvalid": "Invalid email format",
+      "passwordShort": "Password must be at least 8 characters",
+      "passwordMismatch": "Passwords don't match"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "statistics": "Statistics",
+    "totalReadings": "Total Readings",
+    "memberSince": "Member Since",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  }
+}
